@@ -1,0 +1,18 @@
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+input{
+    margin-top: 4px;
+
+    width: 80vh;
+}
+button{
+    width: 20vh;
+    margin-top: 4px;
+    background: rgb(35, 186, 232);
+    border: none;
+    border-radius: 20px;
+}
